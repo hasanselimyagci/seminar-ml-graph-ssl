@@ -15,7 +15,7 @@ This study analyzes the performance and problems of self-supervised approach on 
 * OOD Generalization and SSL
 
 <p align="center">
-    <img width=400 height=200 src="https://github.com/hasanselimyagci/ml-seminar-ssl-graphs/blob/main/img/SizeGen.jpg">
+    <img width=400 height=200 src="https://github.com/hasanselimyagci/seminar-ml-graph-ssl/blob/main/img/SizeGen.jpg">
   </p>
 
 ## Related Works
@@ -28,7 +28,7 @@ This study analyzes the performance and problems of self-supervised approach on 
 * Adversarial Learnable Augmenter
 
 <p align="center">
-    <img src="https://github.com/hasanselimyagci/ml-seminar-ssl-graphs/blob/main/img/tta.jpg">
+    <img src="https://github.com/hasanselimyagci/seminar-ml-graph-ssl/blob/main/img/tta.jpg">
   </p>
 
 
